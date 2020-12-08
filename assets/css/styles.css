@@ -1,0 +1,14 @@
+.navbar-header {
+  position: fixed;
+  top:0;
+  width: 100%;
+}
+.navbar-contents {
+    flex-direction: row;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.section-wrapper {
+  margin: 25px;
+}
